@@ -1,0 +1,15 @@
+# Private settings (WiFi password, API token). Copy secrets.example.h instead.
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+*.map
+
+# Editor / OS clutter
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
