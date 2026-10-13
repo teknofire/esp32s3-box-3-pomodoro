@@ -2,8 +2,8 @@
   Pomodoro timer for ESP32-S3-BOX-3 (320x240 touchscreen)
   LovyanGFX display + touch, WiFi HTTP API + WebSocket push
 
-  First time only: create a tab named secrets.h next to this file (see the
-  template that came with it) and put your WiFi + API token in it.
+  First time only: copy secrets.example.h to secrets.h next to this file and
+  put your WiFi + API token in it. See README.md for full setup.
 
   Libraries (Library Manager):
     "LovyanGFX" (lovyan03)
